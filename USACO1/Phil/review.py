@@ -12,6 +12,3 @@ for x in string_list:
 
 print(nums)
 
-Write a program that reads in multiple integers separated by a space, and then store them inside a list.
-'''
-
