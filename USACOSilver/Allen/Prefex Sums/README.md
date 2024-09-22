@@ -1,3 +1,6 @@
+Link to the actual docs:
+https://docs.google.com/document/d/1CZrvm3pHn3qnnTBH37AooSbObvpeYzjIUgoAUy9vvDs/edit
+
 # https://usaco.org/index.php?page=viewproblem2&cpid=57
 
 
@@ -18,9 +21,6 @@ SAMPLE OUTPUT:
 1 0 0
 2 0 1
 '''
-
-
-
 
 https://usaco.org/index.php?page=viewproblem2&cpid=572
 Breed Counting
@@ -66,9 +66,6 @@ Get Holsteins in [2, 4]: Holsteins[4] - Holsteins[1] = 2 - 0 = 2
 Get Guernseys in [2, 4]: Guernseys[4] - Guernseys[1] = 1 - 1 = 0
 Get Jerseys in [2, 4]: Jerseys[4] - Jerseys[1] = 1 - 0 = 1
 The result is 2 0 1.
-
-
-
 
 
 https://usaco.org/index.php?page=viewproblem2&cpid=595
