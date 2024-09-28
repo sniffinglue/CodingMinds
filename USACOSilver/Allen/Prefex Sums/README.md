@@ -82,8 +82,3 @@ USACO 2017 February Contest, Silver
 Problem 3. Why Did the Cow Cross the Road III
 https://usaco.org/index.php?page=viewproblem2&cpid=716
 
-
-
-
-
-Boo baba  haa
