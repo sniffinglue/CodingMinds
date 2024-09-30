@@ -16,8 +16,8 @@ class Business:
   def cutPrice(self):
     pass
 
-def newStock():
-  pass
+# def newStock():
+#   pass
 
 Businesses = []
 # TODO: Implement Program
