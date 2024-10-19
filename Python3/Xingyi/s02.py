@@ -21,4 +21,6 @@ while True:
                                             #R,   G,   B      X,  Y,  W,  H
   pygame.display.update()
   white_square = pygame.draw.rect(screen, (193, 238, 238), (10, 10, 50, 50))# surface, color, rect dimensions	
+  white_circle = pygame.draw.circle(screen, (193, 238, 238), (150, 150), 70)# surface, color, rect dimensions	
+
   clock.tick(60)
